@@ -1,2 +1,2 @@
 # cinema_duanrapchieuphim
-Asap Net 8 and 
+Asap Net 8 and React 
